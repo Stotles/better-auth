@@ -511,7 +511,7 @@
     "@lynx-js/react": "^0.116.3",
     "@sveltejs/kit": "^2.60.1",
     "@tanstack/react-start": "^1.168.4",
-    "@tanstack/solid-start": "^1.168.4",
+    "@tanstack/solid-start": "^1.168.57",
     "@types/bun": "^1.3.9",
     "@types/google.accounts": "^0.0.18",
     "@types/pg": "^8.16.0",
